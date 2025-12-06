@@ -76,6 +76,9 @@ jobs:
           path: ${{ runner.temp }}/hugo_cache
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
+
+      # no need to modify the above things for your Hugo site deployment
+      # modify below as needed
       - name: Build the site
         # comment out themeDir if using modules
         run: |
