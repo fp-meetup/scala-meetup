@@ -76,28 +76,28 @@ jobs:
           path: ${{ runner.temp }}/hugo_cache
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
+
+      # no need to modify the above things for your Hugo site deployment
+      # modify below as needed
       - name: Build the site
-        working-directory: ./exampleSite # for exampleSite builds
         # comment out themeDir if using modules
         run: |
           hugo \
-            --themesDir ../.. \
+            --themesDir . \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
         id: cache-save
-        # working-directory: ./exampleSite # for exampleSite builds
         uses: actions/cache/save@v4
         with:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Upload artifact
-        # working-directory: ./exampleSite # for exampleSite builds
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./exampleSite/public
+          path: ./public
   deploy:
     environment:
       name: github-pages
