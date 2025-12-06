@@ -44,8 +44,8 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 
 # Site logo
 [logo]
-darkMode = "/images/compose-light.svg"
-lightMode = "/images/compose.svg"
+darkMode = "https://github.com/user-attachments/assets/cbe77bb7-06cb-42d9-90a7-6e4b569640cd"
+lightMode = "https://github.com/user-attachments/assets/cbe77bb7-06cb-42d9-90a7-6e4b569640cd"
 
 [source]
 iconDark = "/images/GitHubMarkDark.svg"
