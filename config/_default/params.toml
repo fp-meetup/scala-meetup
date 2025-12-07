@@ -1,11 +1,19 @@
 # use the setting below to set multiple docs directories.
-docSections = ["docs", "tutorials"]
-
+blogDir = "blog" # can be posts, blog e.t.c
+docSections = ["docs", "tutorials"] 
+repo = "https://github.com/fp-meetup/scala-meetup" 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
-blogDir = "blog" # can be posts, blog e.t.c
+# Site logo at navbar
+[logo]
+darkMode = "https://github.com/user-attachments/assets/3cc0dbfd-1e56-4b85-9fbe-ca440c36ed81"
+lightMode = "https://github.com/user-attachments/assets/3cc0dbfd-1e56-4b85-9fbe-ca440c36ed81"
 
-repo = "https://github.com/onweru/compose"
+[source] # source code link at navbar
+iconDark = "/images/GitHubMarkDark.svg"
+iconLight = "/images/GitHubMarkLight.svg"
+name = "GitHub"
+url = "https://github.com/fp-meetup/scala-meetup"
 
 defaultLightingMode = "auto" # other possible values: "dark", "light"
 enableDarkMode = false # set to false to disable darkmode by default # user will still have the option to use dark mode
@@ -41,20 +49,3 @@ enable = false # if false search will default to fusejs
 id = "Q40WQQX84U" # Application ID
 index = "compose" # Index name
 key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
-
-# Site logo
-[logo]
-darkMode = "https://github.com/user-attachments/assets/e9752fc9-c75a-4b64-baa4-944ae10ebf05"
-lightMode = "https://github.com/user-attachments/assets/e9752fc9-c75a-4b64-baa4-944ae10ebf05"
-
-[source]
-iconDark = "/images/GitHubMarkDark.svg"
-iconLight = "/images/GitHubMarkLight.svg"
-name = "GitHub"
-url = "https://github.com/onweru/compose/"
-
-# optional
-# attribution. Feel free to delete this
-[author]
-name = "Weru"
-url = "https://neuralvibes.com/author/"
