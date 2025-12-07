@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "fp-meetup.github.io/scala-meetup"
 enableRobotsTXT = true
-title = "Compose Docs"
+title = "Scala Meetup"
 
 # depending on how you install the theme, uncomment one of the below:
 # be very careful for your own modules, specifically for go.mod files

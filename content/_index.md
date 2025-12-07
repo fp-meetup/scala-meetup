@@ -39,4 +39,4 @@ Internationally:
 See our [repo](https://github.com/fp-meetup/scala-meetup) for details.
 
 ## About this site
-This website is built with github actions and [Hugo](https://gohugo.io/) static site generator, It's automatically deployed to GitHub pages when changes are pushed to the main branch. 
+This website is built with github actions and [Hugo](https://gohugo.io/) static site generator, It's automatically deployed to GitHub pages when changes are pushed to the main branch. The theme is a fork of [Compose](https://github.com/doofin/hugo-docs-theme)
