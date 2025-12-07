@@ -44,8 +44,8 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 
 # Site logo
 [logo]
-darkMode = "https://github.com/user-attachments/assets/cbe77bb7-06cb-42d9-90a7-6e4b569640cd"
-lightMode = "https://github.com/user-attachments/assets/cbe77bb7-06cb-42d9-90a7-6e4b569640cd"
+darkMode = "https://github.com/user-attachments/assets/e9752fc9-c75a-4b64-baa4-944ae10ebf05"
+lightMode = "https://github.com/user-attachments/assets/e9752fc9-c75a-4b64-baa4-944ae10ebf05"
 
 [source]
 iconDark = "/images/GitHubMarkDark.svg"
