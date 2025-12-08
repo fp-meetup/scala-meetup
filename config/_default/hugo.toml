@@ -1,4 +1,5 @@
-baseURL = "fp-meetup.github.io/scala-meetup"
+# baseURL = "fp-meetup.github.io/scala-meetup"
+baseURL = "scala.ecofunctor.com"
 enableRobotsTXT = true
 title = "Scala Meetup"
 
