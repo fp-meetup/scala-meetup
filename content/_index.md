@@ -5,13 +5,12 @@ title = "Scala"
 # Scala reload 2025: AI，chip and DSL
 ## About
 
-We are a group of Scala enthusiasts focusing on functional programming and Scala. Members are mainly from China but also international. It's been 2 years since our last meetup in Beijing on November 2023. Not just Scala, the popularity of meetups has decreased both domestically and internationally in recent years. However, as the most industrialized functional programming language, Scala has found new applications in AI, chip design, and other fields beyond big data and backend development, which is why this meetup is named "Scala Reload 2025". 
+We are a group of Scala enthusiasts focusing on functional programming and Scala. It's been 2 years since our last meetup in Beijing on November 2023. Not just Scala, the popularity of meetups has decreased both domestically and internationally in recent years. However, as the most industrialized functional programming language, Scala has found new applications in AI, chip design, and other fields beyond big data and backend development, which is why our latest meetup is named "Scala Reload 2025". 
 
 ## Current events
-Upcoming meetup: **2025-12-13** Hybrid meetup in Shenzhen, China
+Upcoming meetup: 
 
-link: [Scala reload 2025：AI，chip and DSL](/docs/202512_ai_dsl/)
-
+[Scala reload 2025：AI，chip and DSL](/docs/202512_ai_dsl/)(2025-12-13, Hybrid, Shenzhen)
 
 
 {{< tip >}}
