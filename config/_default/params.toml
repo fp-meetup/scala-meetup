@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-blogDir = "blog" # can be posts, blog e.t.c
+blogDir = "blog" # can be posts, blog e.t.c . Blogs have special templates
 docSections = ["docs", "tutorials"] 
 repo = "https://github.com/fp-meetup/scala-meetup" 
 uniqueHomePage = true # change to false to add sidebar to homepage
