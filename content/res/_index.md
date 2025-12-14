@@ -20,4 +20,8 @@ Type theory related:
 
 Frontend:
 - [Laminar](https://laminar.dev/)
-- 
+
+## Learning resources, blogs
+- [baeldung](https://www.baeldung.com/scala/), basic tutorials
+- [Li Haoyi's blog](https://www.lihaoyi.com), in depth articles about Scala
+- [Handson Scala](https://www.handsonscala.com/), practical Scala tutorials

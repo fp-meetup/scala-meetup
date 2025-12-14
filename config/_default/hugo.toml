@@ -1,6 +1,6 @@
 # baseURL = "fp-meetup.github.io/scala-meetup"
-baseURL = "scala.ecofunctor.com"
-enableRobotsTXT = true
+baseURL = "https://scala.ecofunctor.com"
+# enableRobotsTXT = true
 title = "Scala Meetup"
 
 # depending on how you install the theme, uncomment one of the below:
