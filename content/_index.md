@@ -12,17 +12,17 @@ title = "Projects"
 
 We are a group of Scala enthusiasts focusing on functional programming and Scala. It's been 2 years since our last meetup in Beijing on November 2023. Not just Scala, the popularity of meetups has decreased both domestically and internationally in recent years. However, as the most industrialized functional programming language, Scala has found new applications in AI, chip design, and other fields beyond big data and backend development, which is why our latest meetup is named "Scala Reload 2025". 
 
-## Current events
-Upcoming meetup: 
-
-[Scala reload 2025：AI，chip and DSL](/docs/202512_ai_dsl/)(2025-12-13, Hybrid, Shenzhen)
-
+## Upcoming event
+None for now.
 
 {{< tip >}}
 Feel free to open a [PR](https://github.com/fp-meetup/scala-meetup) to add more information about the meetup.
 {{< /tip >}}
 
-## Previous meetups and community links
+## Past meetups and community links
+[Scala reload 2025：AI，chip and DSL](/docs/202512_ai_dsl/)(2025-12-13, Hybrid, Shenzhen)
+
+
 In China:
 - [algebraic program(中文博客)](https://www.zhihu.com/column/Hascala)
 - [Scala China](https://github.com/scalacn/scala-meetup)
