@@ -1,7 +1,7 @@
 +++
 author = "Eason"
 date = 2025-12-11
-title = "7 years of Scala religion, part I"
+title = "7 years of Scala religion: From backend to chip design"
 image = "/images/hardangervidda.jpg"
 +++
 
@@ -48,3 +48,7 @@ One more thing I want to mention is Scala js. I have a side project that have ve
 In the end, I want to thank all the people that contributed to Scala community. I read lihaoyi's blog posts where he shared his experience from the very beginning of Scala back in 2004([12 years..](https://www.lihaoyi.com/post/12yearsofthecomlihaoyiScalaPlatform.html)), when the Scala ecosystem was much less "batteries included" than now. Nowadays, it's much easier to use Scala for almost everything(except things that prohibit garbage collection). In addition to technical blogs about Scala, I would also enjoyed a lot from the stories about people's career in Scala. This kind of stories are mind opening, and also tells Scala enthusiasts how to better plan their careers.
 
 Thanks for reading my story. See you in the next part!
+
+{{< tip >}}
+Feel free to connect with me in [LinkedIn](https://www.linkedin.com/in/eason-du-03543279)
+{{< /tip >}}
